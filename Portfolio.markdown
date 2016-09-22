@@ -3,28 +3,59 @@
 ## Areas of Emphasis
 
 I want to keep a scheduled meeting time with my mentor, be active with my posse, and reach 35 wpm typing.
-I did not accomplish any of these goals, next time going through mod 1 I will make goals based on where I need to grow.
+
 
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 1
-* **B: Individual Work & Projects**: X
-* **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **B: Individual Work & Projects**: 3
+* **C: Group Work & Projects**: 2
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed By: Jeff
+
+Notes:
+
+* some uncertainty about how to get started with the task
+* struggling to make and execute a plan of attack
+
+### Notes
+
+##### 1. Ruby Syntax & API
+
+* 1: Developer spends significant time debugging elementary syntax or concepts
+
+##### 2. Completion and Progress
+
+* 1: Developer struggles to complete the baseline assignment.
+
+##### 3. Testing
+
+* 1: Developer is able to use existing tests, but not write new ones
+
+##### 4. Workflow
+
+* 2: Developer smoothly moves between tools, but is dependent on mouse-driven interaction
+
+##### 5. Collaboration
+
+* 1: Developer is able to integrate unsolicited feedback but does not really collaborate
+
+##### 6. Enumerable & Collections
+
+* 1: Application demonstrates deficiencies with Enumerable and struggles with collections
 
 
 ## B: Individual Work & Projects
 
 This is a brief overview of my individual projects.
 
-#### (Sorting Suite)
+#### Sorting Suite
 
 * [GitHub URL](https://github.com/riverswb/sorting_suit)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/67df787e17e66bb446af2e10c4c6e72b3d41579b/source/projects/sorting_suite.markdown)
@@ -40,9 +71,9 @@ Sorting Suit is an introduction to common sorting algorithms utilized in compute
 Date Night is an introduction to binary search trees and how they can be utilized to connect large sets of data.
 
 
-## Assessed By: Beth Sebian
+#### Assessed By: Beth Sebian
 
-## Notes:
+#### Notes:
 * Repo here: https://github.com/riverswb/date_night
 * Missing `load` and `health` base methods
 * Testing sufficient, would like to see more unit and edge-case tests
@@ -50,19 +81,19 @@ Date Night is an introduction to binary search trees and how they can be utilize
 * Overall strong start: in spite of completion shortcomings, the project demonstrates some comfort with Ruby principles and tactics.
 
 
-### 1. Functional Expectations
+##### 1. Functional Expectations
 * 1: Application is missing more than one base expectation
 
-### 2. Test-Driven Development
+##### 2. Test-Driven Development
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-### 3. Encapsulation / Breaking Logic into Components
+##### 3. Encapsulation / Breaking Logic into Components
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
 
-### 4. Fundamental Ruby & Style
+##### 4. Fundamental Ruby & Style
 * 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
 
-### 5. Looping *or* Recursion
+##### 5. Looping *or* Recursion
 * 2: Application has issues with loop/recursion techniques or mixes them inappropriately
 
 #### Event Reporter
@@ -83,31 +114,31 @@ Notes:
 * Implementation is in a few big piles
 * For next project, focus on components and testing as two sides of the same coin
 
-### 1. Functional Expectations
+##### 1. Functional Expectations
 
 * 3: Application fulfills all base expectations
 
-### 2. REPL Interface
+##### 2. REPL Interface
 
 * 3: Application's REPL is clear and pleasant to use
 
-### 3. Test-Driven Development
+##### 3. Test-Driven Development
 
 * 1: Application does not demonstrate strong use of TDD
 
-### 4. Breaking Logic into Components
+##### 4. Breaking Logic into Components
 
 * 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 
-### 5. Fundamental Ruby & Style
+##### 5. Fundamental Ruby & Style
 
 * 3:  Application shows strong effort towards organization, content, and refactoring
 
-### 6. Enumerable & Collections
+##### 6. Enumerable & Collections
 
 * 3: Application demonstrates comfortable use of several Enumerable techniques
 
-### 7. HTML and Style
+##### 7. HTML and Style
 
 * 3: HTML is valid and has all correct data.
 
@@ -138,19 +169,19 @@ Notes:
 * Execution of project didn't require many enumerables. Some sounds use, some missing opportunities to consolidate tasks (ex: sanitizing letters)
 
 
-### 1. Functional Expectations
+##### 1. Functional Expectations
 * 4: Application fulfills all base expectations and one extension
 
-### 2. Test-Driven Development
+##### 2. Test-Driven Development
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
 
-### 3. Encapsulation / Breaking Logic into Components
+##### 3. Encapsulation / Breaking Logic into Components
 * 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
 
-### 4. Fundamental Ruby & Style
+##### 4. Fundamental Ruby & Style
 * 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
 
-### 5. Enumerable & Collections
+##### 5. Enumerable & Collections
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
