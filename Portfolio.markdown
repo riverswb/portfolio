@@ -7,7 +7,7 @@ I did not accomplish any of these goals, next time going through mod 1 I will ma
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
+* **A: End-of-Module Assessment**: 1
 * **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: X
 * **D: Professional Skills**: X
@@ -22,27 +22,24 @@ I did not accomplish any of these goals, next time going through mod 1 I will ma
 
 ## B: Individual Work & Projects
 
-(Intro)
+This is a brief overview of my individual projects.
 
 #### (Sorting Suite)
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/riverswb/sorting_suit)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/67df787e17e66bb446af2e10c4c6e72b3d41579b/source/projects/sorting_suite.markdown)
 
-(description)
+Sorting Suit is an introduction to common sorting algorithms utilized in computer science.
 
-(evaluation comments)
 
-(evaluation scores)
-
-#### (Date Night)
+#### Date Night
 
 * [GitHub URL](https://github.com/riverswb/date_night)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 
-(description)
+Date Night is an introduction to binary search trees and how they can be utilized to connect large sets of data.
 
-(evaluation comments)
+
 ## Assessed By: Beth Sebian
 
 ## Notes:
@@ -52,8 +49,6 @@ I did not accomplish any of these goals, next time going through mod 1 I will ma
 * `Insert` implemented using recursion, while `sort`, `min`, `max` implemented with hash holding data
 * Overall strong start: in spite of completion shortcomings, the project demonstrates some comfort with Ruby principles and tactics.
 
-
-(evaluation scores)
 
 ### 1. Functional Expectations
 * 1: Application is missing more than one base expectation
@@ -70,23 +65,68 @@ I did not accomplish any of these goals, next time going through mod 1 I will ma
 ### 5. Looping *or* Recursion
 * 2: Application has issues with loop/recursion techniques or mixes them inappropriately
 
+#### Event Reporter
+
+* [GitHub URL](https://github.com/riverswb/event_reporter)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/event_reporter.markdown)
+
+Event reporter is a project that utilizes a REPL to interact with the program and the [Sunlight Foundation's](http://sunlightfoundation.com/) API to look up information about congressional districts.
+
+Assessed By: Jeff
+
+Notes:
+
+* Overview: think I squeaked by with everything working, HTML works but garbage
+* REPL functionality works well with all features
+* HTML functionality is there but needs better formatting
+* Just one file of a couple tests
+* Implementation is in a few big piles
+* For next project, focus on components and testing as two sides of the same coin
+
+### 1. Functional Expectations
+
+* 3: Application fulfills all base expectations
+
+### 2. REPL Interface
+
+* 3: Application's REPL is clear and pleasant to use
+
+### 3. Test-Driven Development
+
+* 1: Application does not demonstrate strong use of TDD
+
+### 4. Breaking Logic into Components
+
+* 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
+
+### 5. Fundamental Ruby & Style
+
+* 3:  Application shows strong effort towards organization, content, and refactoring
+
+### 6. Enumerable & Collections
+
+* 3: Application demonstrates comfortable use of several Enumerable techniques
+
+### 7. HTML and Style
+
+* 3: HTML is valid and has all correct data.
+
+
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+An overview of my group work.
 
 
-#### (Complete Me)
+#### Complete Me
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/JStans12/complete_me)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
-(description)
 
 The purpose of complete me is to build an autocomplete system with a trie data structure. A trie consists of nodes which know the location of their children, but not their parents. Nodes are unaware of the key with which they are associated. Keys are defined entirely by the node's location in the trie. In our case, the only bit of information that a node stores aside from it's children, is a boolean to describe whether or not it is a word.
 
-(evaluation comments)
 
 Assessed By: Beth Sebian
 
@@ -97,7 +137,6 @@ Notes:
 * Style often solid, but with some inconsistencies: double negatives (!= nil?) and "if nil?" instead of unless. Opportunities to create more clear parallelism in code.
 * Execution of project didn't require many enumerables. Some sounds use, some missing opportunities to consolidate tasks (ex: sanitizing letters)
 
-(evaluation scores)
 
 ### 1. Functional Expectations
 * 4: Application fulfills all base expectations and one extension
@@ -115,14 +154,13 @@ Notes:
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
-(feedback to me)
 
-#### (Project Name)
+#### Head Count
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/jdconrad89/head_count)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
-(description)
+Head Count is a project that uses available government data to analyze relationships between economic status, kindergarten participation, and high school graduation.
 
 (evaluation comments)
 
@@ -130,22 +168,26 @@ Notes:
 
 
 ## D: Professional Skills
-(Intro)
+My proffesional development over module 1
 
 ### Gear Up
-#### (Session Name)
+#### Getting Better at Difficult Things
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+Everyone has a different learning process and getting to understand mine is important so that I can be an effective and efficient learner.  It is important to understand how emotional states effect my learning process.  Knowing my learning process and understanding how my emotional state effects it will help me be an efficient learner at Turing.  
 
-* [GitHub URL]()
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
 
-* [GitHub URL]()
+#### There is an "I" in Team
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
 
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
+This Gear Up helped me understand the importance of DTR at the beginning and also at a later point in the project.  By having a thorough DTR we can make sure that all team members are valued and comfortable.  
+
+#### CODE: Debugging the Gender Gap
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
+
+I did not attend this Gear Up, I was not feeling well so I went home.  My restorative justice steps to make up to the community is to straighten up in the morning for the first three days of the next module.
 
 
 ### Professional Development Workshops
@@ -174,14 +216,14 @@ it is apparent he cares about the module.  He is also an excellent community mem
 
 ### Being a Community Member
 
-(feedback to me)
+Dan Olsen: Brett was an awesome addition to the team. He is very knowledgeable in many areas and is eager to share what he has learned. This outgoing personality allowed us to collaborate and assert our learning with each other all throughout the mod. He has a great sense of humor that definitly helped during those tough times. Brett is a welcomed addition to any team!
 
-As for community, Brett would always make me feel included in conversations that he was in. He was also willing to help with issues earlier in the module when we weren’t working together.
+Jason Conrad: As for community, Brett would always make me feel included in conversations that he was in. He was also willing to help with issues earlier in the module when we weren’t working together.
 
 ### Playing a Part
 
 I volunteered at Try Turing Fort Collins and I make the first pot of coffee
-every morning..
+every morning.
 
 ------------------
 
