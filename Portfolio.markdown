@@ -234,6 +234,50 @@ importance.  Since this workshop I have created a twitter account and I have
 updated my LinkedIn profile.  I will continue to personalize these tools to
 help me further my career in software development.
 
+DTR from Head Count:
+DTR Memo
+Project:Head_Count
+Group Member Names: Jason Conrad & Brett Rivers
+
+Project Expectations: What does each group member hope to get out of this project? Goals and expectations:
+
+Jason - To get better at both TDD and use/understanding of git workflow get better at implementation
+
+Brett -  TDD implementation and github
+
+Schedule Expectations: When are we available to work together and individually?
+
+Jason - On days that I have to go back to Castle Rock preferably leave school before 9 otherwise if I am staying in Denver I can stay as late as needed.
+
+Brett - Living in Ft Collins prefers to work from home via slack, screener etc. Can’t stay at the school beyond 6 o'clock.
+
+Communication Expectations: How and often will we communicate? How do we keep lines of communication open?
+
+When we finish working on something posting an update up on our slack channel. Touch base verbally once a day just to keep on track and stay on the same page.
+
+Abilities Expectations: Technical strengths and areas for desired improvement:
+See Project Expectations
+
+Workload Expectations: What features do we each want to work on?
+
+Will Revisit after looking at the Spec
+Workflow Expectations: Git workflow/Tools/Code Review/Reviewing Pull Requests:
+
+anytime you create or remove a feature you should be pushing to Git. name the branch that you are working on with your initials and what it is that you are working on.
+
+Expectations for giving and receiving feedback: Feedback should be given in some form during each touchable.
+
+Agenda to discuss project launch:
+
+Spend time reading over and taking notes on the rubric and spec and then discuss what we see and what we have taken away as expectations.
+
+Ideas:
+ Will revisit when we discuss the specs
+ 
+Tools:
+Slack, Screenhero, google hangout etc.
+
+
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
