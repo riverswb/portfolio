@@ -8,7 +8,7 @@ I want to keep a scheduled meeting time with my mentor, be active with my posse,
 ## Rubric Scores
 
 * **A: End-of-Module Assessment**: 1
-* **B: Individual Work & Projects**: 3
+* **B: Individual Work & Projects**: 2
 * **C: Group Work & Projects**: 2
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
